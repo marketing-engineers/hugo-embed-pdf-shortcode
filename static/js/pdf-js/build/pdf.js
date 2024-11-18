@@ -3901,7 +3901,7 @@ exports.loadScript = loadScript;
 exports.setLayerDimensions = setLayerDimensions;
 var _base_factory = __w_pdfjs_require__(7);
 var _util = __w_pdfjs_require__(1);
-const SVG_NS = "http://www.w3.org/2000/svg";
+const SVG_NS = "https://www.w3.org/2000/svg";
 const AnnotationPrefix = "pdfjs_internal_id_";
 exports.AnnotationPrefix = AnnotationPrefix;
 class PixelsPerInch {
